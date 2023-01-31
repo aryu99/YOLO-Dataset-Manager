@@ -1,4 +1,4 @@
-# YOLO-Dataset-Manager
+# YOLO Dataset Manager
 Script for managing datasets in YOLO label format
 
 Use [Yolo_class_filter.py](https://github.com/aryu99/YOLO-Manager/blob/main/YOLO_class_filter.py) to manage and modify your YOLO annotation files. Run the file and enter the following options for their respective utilization:
